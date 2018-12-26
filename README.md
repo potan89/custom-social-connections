@@ -1,4 +1,4 @@
-# Custom Social Connections
+# Custom Social Connections With Nonce
 
 [![Auth0 Extensions](http://cdn.auth0.com/extensions/assets/badge.svg)](https://sandbox.it.auth0.com/api/run/auth0-extensions/extensions-badge?webtask_no_cache=1)
 
